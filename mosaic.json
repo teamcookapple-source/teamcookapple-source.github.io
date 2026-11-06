@@ -1,0 +1,1 @@
+{"mosaicjson": "0.0.2", "name": "hx", "minzoom": 0, "maxzoom": 1, "bounds": [-26, -41, 61, 41], "center": [0, 0, 0], "tiles": {"0/0/0": ["https://climatehub.acmad.org/images/AFR_Dec_2009_CPC-UNI_Precip-Anom.tif"]}}
